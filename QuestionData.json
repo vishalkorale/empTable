@@ -1,0 +1,94 @@
+[
+    {
+        "id": 1,
+        "question": "Who is the Prime Minister of India?",
+        "options": [
+            {
+                "id": 1,
+                "option": "Amit Shah"
+            },
+            {
+                "id": 3,
+                "option": "Manmohan Singh"
+            },
+            {
+                "id": 4,
+                "option": "Narasimha Rao"
+            },
+            {
+                "id": 5,
+                "option": "Atal Bihari Vajpayee"
+            },
+            {
+                "id": 2,
+                "option": "Narendra Modi"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "question": "Who is the President of India?",
+        "options": [
+            {
+                "id": 7,
+                "option": "Droupadi Murmu"
+            },
+            {
+                "id": 8,
+                "option": "Narendra Modi"
+            },
+            {
+                "id": 9,
+                "option": "Manmohan Singh"
+            },
+            {
+                "id": 10,
+                "option": "Narasimha Rao"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "question": "What is the capital of India?",
+        "options": [
+            {
+                "id": 11,
+                "option": "New Delhi"
+            },
+            {
+                "id": 12,
+                "option": "Mumbai"
+            },
+            {
+                "id": 13,
+                "option": "Pune"
+            },
+            {
+                "id": 14,
+                "option": "Bhopal"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "question": "What is the capital of Maharashtra?",
+        "options": [
+            {
+                "id": 15,
+                "option": "Pune"
+            },
+            {
+                "id": 16,
+                "option": "Mumbai"
+            },
+            {
+                "id": 17,
+                "option": "Nagpur"
+            },
+            {
+                "id": 18,
+                "option": "Delhi"
+            }
+        ]
+    }
+]
